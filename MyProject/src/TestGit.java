@@ -6,6 +6,6 @@ public class TestGit {
 	}
 	
 	public static int multiply (int x, int y) {
-		return x;
+		return x*y;
 	}
 }
